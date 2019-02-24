@@ -7,4 +7,4 @@ When you've completed this project, you'll have an application that can be train
 
 This is the final Project of the Udacity AI with Python Nanodegree
 
-Udacity_certification.pngI[](\Udacity_certification.png)
+![alt text](https://raw.githubusercontent.com/dhruvkhanna98/Image-Classifier/blob/master/Udacity_certification.png)
